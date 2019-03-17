@@ -1,0 +1,4 @@
+cron:
+- description: "Jean Michel CRON"
+  url: /tweet
+  schedule: every 2 minutes

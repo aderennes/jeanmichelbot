@@ -1,0 +1,7 @@
+.git
+.gitignore
+.gcloudignore
+Pipfile
+Pipfile.lock
+README.md
+data/
