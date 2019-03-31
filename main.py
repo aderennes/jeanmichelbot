@@ -49,7 +49,7 @@ class Tweeter:
             self._message = None
             logging.warning("The bot has reached the end of the lexicon and will not tweet anymore")
         else:
-            self._message = "Jean Michel {}".format(lexicon[self._counter])
+            self._message = "Jean-Michel {}".format(lexicon[self._counter])
     
     def _tweet_message(self):
         self._api.update_status(status=self._message)
