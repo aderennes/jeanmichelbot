@@ -12,7 +12,7 @@ google-resumable-media==0.3.2
 googleapis-common-protos==1.5.8
 idna==2.8
 itsdangerous==1.1.0
-jinja2==2.10
+Jinja2>=2.10.1
 markupsafe==1.1.1
 oauthlib==3.0.1
 protobuf==3.7.0
