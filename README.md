@@ -1,7 +1,5 @@
 # [Jean-Michel Bot](https://twitter.com/jeanmichelbot)
 
-Ce bot n'est pas encore live, mais ça ne serait tarder.
-
 ## Conception
 
 Inspiré du fantastique [@BotDuCul](https://twitter.com/botducul) de WhiteFangs dont le code se trouve [sur le GitHub dédié](https://github.com/WhiteFangs/BotDuCul).
