@@ -15,7 +15,7 @@ itsdangerous==1.1.0
 Jinja2>=2.10.1
 markupsafe==1.1.1
 oauthlib==3.0.1
-protobuf==3.7.0
+protobuf==3.15.0
 pyasn1-modules==0.2.4
 pyasn1==0.4.5
 pysocks==1.6.8
